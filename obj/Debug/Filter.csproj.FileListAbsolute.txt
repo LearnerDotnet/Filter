@@ -1,0 +1,5 @@
+C:\Users\My\Downloads\1212\Filter\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\My\Downloads\1212\Filter\obj\Debug\ConsoleApplication1.exe
+C:\Users\My\Downloads\1212\Filter\obj\Debug\ConsoleApplication1.pdb
+C:\Users\My\Downloads\1212\Filter\bin\Debug\ConsoleApplication1.exe
+C:\Users\My\Downloads\1212\Filter\bin\Debug\ConsoleApplication1.pdb
